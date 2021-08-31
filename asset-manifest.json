@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lite-todo-app/static/css/main.4cf84056.chunk.css",
+    "main.js": "/lite-todo-app/static/js/main.7040d734.chunk.js",
+    "main.js.map": "/lite-todo-app/static/js/main.7040d734.chunk.js.map",
+    "runtime-main.js": "/lite-todo-app/static/js/runtime-main.546c69ee.js",
+    "runtime-main.js.map": "/lite-todo-app/static/js/runtime-main.546c69ee.js.map",
+    "static/js/2.f863725f.chunk.js": "/lite-todo-app/static/js/2.f863725f.chunk.js",
+    "static/js/2.f863725f.chunk.js.map": "/lite-todo-app/static/js/2.f863725f.chunk.js.map",
+    "static/js/3.16ed6fd6.chunk.js": "/lite-todo-app/static/js/3.16ed6fd6.chunk.js",
+    "static/js/3.16ed6fd6.chunk.js.map": "/lite-todo-app/static/js/3.16ed6fd6.chunk.js.map",
+    "index.html": "/lite-todo-app/index.html",
+    "static/css/main.4cf84056.chunk.css.map": "/lite-todo-app/static/css/main.4cf84056.chunk.css.map",
+    "static/js/2.f863725f.chunk.js.LICENSE.txt": "/lite-todo-app/static/js/2.f863725f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.546c69ee.js",
+    "static/js/2.f863725f.chunk.js",
+    "static/css/main.4cf84056.chunk.css",
+    "static/js/main.7040d734.chunk.js"
+  ]
+}
