@@ -8,13 +8,13 @@ function Footer(props) {
       </span>
       <ul className="filters">
         <li>
-          <Link to="/">All</Link>
+          <Link to="/lite-todo-app">All</Link>
         </li>
         <li>
-          <Link to="/active">Active</Link>
+          <Link to="/lite-todo-app/active">Active</Link>
         </li>
         <li>
-          <Link to="/completed">Completed</Link>
+          <Link to="/lite-todo-app/completed">Completed</Link>
         </li>
       </ul>
       <button
