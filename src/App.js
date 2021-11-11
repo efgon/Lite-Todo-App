@@ -97,7 +97,7 @@ function App() {
   return (
     <>
       <TodosContext.Provider value={dispatch}>
-        <Route exact path="/lite-todo-app">
+        <Route exact path="/">
           <section className="todoapp">
             <header className="header">
               <h1>todos</h1>
@@ -127,7 +127,7 @@ function App() {
             />
           </section>
         </Route>
-        <Route exact path="/lite-todo-app/active">
+        <Route exact path="/active">
           <section className="todoapp">
             <header className="header">
               <h1>todos</h1>
@@ -162,7 +162,7 @@ function App() {
             />
           </section>
         </Route>
-        <Route exact path="/lite-todo-app/completed">
+        <Route exact path="/completed">
           <section className="todoapp">
             <header className="header">
               <h1>todos</h1>
